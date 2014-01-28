@@ -11,6 +11,6 @@ mail_server_sender;webokonomi@gmail.com
 mail_server;smtp.gmail.com
 mail_server_port;587
 mail_server_username;webokonomi@gmail.com
-mail_server_password;********
+mail_server_password;*******
 client_path;C:\\TKA_SmallSize\bin\AutomationClient.exe
 client_config;C:\\TKA_SmallSize\config\XLedgerRecon.xml
