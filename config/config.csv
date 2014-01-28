@@ -1,0 +1,16 @@
+name;Timekiosk Import Client
+version;1.0.0
+pos_dir;pos/
+pos_file;pos.csv
+asset_dir;C:\\TKA_SmallSize\assets
+temp_dir;C:\\TKA_SmallSize\temp
+error_dir;C:\\TKA_SmallSize\error
+mail_response_active;true
+mail_server_recipients;fredrikstave@me.com, jonna@webokonomi.no,
+mail_server_sender;webokonomi@gmail.com
+mail_server;smtp.gmail.com
+mail_server_port;587
+mail_server_username;webokonomi@gmail.com
+mail_server_password;Wkl689003
+client_path;C:\\TKA_SmallSize\bin\AutomationClient.exe
+client_config;C:\\TKA_SmallSize\config\XLedgerRecon.xml
